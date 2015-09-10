@@ -5,7 +5,7 @@ One corner on the web, it is Mingli's IPFS file repository, and will collect som
 
 This repo is a wiki powered by realms-wiki at the begining, I will try to adapt the software to IPFS.
 
-Let reshape the world by making something real.
+Let's reshape the world by making something real.
 
 
 
